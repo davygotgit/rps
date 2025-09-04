@@ -29,7 +29,12 @@ This is what the stick battery looks like when attached to the AtomS3:
 
 This style of battery is much longer than the battery base. However, it still allows a USB-C for charging and uploading new Sketches, as well as access to the Grove Interface to attach a sensor. I decided to use the battery base for this project as I liked to form factor better, and the battery base has slightly more capacity.
 
+
 ## What does it look like?
+
+Here's a video showing the project working:
+
+[![short video](https://img.youtube.com/vi/B7frqEDTGa4/0.jpg)](https://www.youtube.com/watch?v=B7frqEDTGa4)
 
 The project starts by running a short demo:
 
